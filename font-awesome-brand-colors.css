@@ -5,438 +5,435 @@
   Compatible with fontawesome 4.5
   
   */
-.fa {
-  color: #efefef;
-}
-.fa.fa-500px {
+.fa .fa-brandcolors .fa-500px {
   color: #0099e5;
 }
-.fa.fa-adn {
+.fa .fa-brandcolors.fa-adn {
   color: #4A484C;
 }
-.fa.fa-amazon {
+.fa .fa-brandcolors.fa-amazon {
   color: #ff9900;
 }
-.fa.fa-android {
+.fa .fa-brandcolors.fa-android {
   color: #a4c639;
 }
-.fa.fa-angellist {
+.fa .fa-brandcolors.fa-angellist {
   color: #000;
 }
-.fa.fa-apple {
+.fa .fa-brandcolors.fa-apple {
   color: #979797;
 }
-.fa.fa-behance {
+.fa .fa-brandcolors.fa-behance {
   color: #1769ff;
 }
-.fa.fa-behance-square {
+.fa .fa-brandcolors.fa-behance-square {
   color: #1769ff;
 }
-.fa.fa-bitbucket {
+.fa .fa-brandcolors.fa-bitbucket {
   color: #205081;
 }
-.fa.fa-bitbucket-square {
+.fa .fa-brandcolors.fa-bitbucket-square {
   color: #205081;
 }
-.fa.fa-bitcoin {
+.fa .fa-brandcolors.fa-bitcoin {
   color: #ee9209;
 }
-.fa.fa-black-tie {
+.fa .fa-brandcolors.fa-black-tie {
   color: #222;
 }
-.fa.fa-btc {
+.fa .fa-brandcolors.fa-btc {
   color: #ee9209;
 }
-.fa.fa-buysellads {
+.fa .fa-brandcolors.fa-buysellads {
   color: #c90100;
 }
-.fa.fa-cc-amex {
+.fa .fa-brandcolors.fa-cc-amex {
   color: #007bc1;
 }
-.fa.fa-cc-diners-club {
+.fa .fa-brandcolors.fa-cc-diners-club {
   color: #004A97;
 }
-.fa.fa-cc-discover {
+.fa .fa-brandcolors.fa-cc-discover {
   color: #f68121;
 }
-.fa.fa-cc-jcb {
+.fa .fa-brandcolors.fa-cc-jcb {
   color: #003A8F;
 }
-.fa.fa-cc-mastercard {
+.fa .fa-brandcolors.fa-cc-mastercard {
   color: #0a3a82;
 }
-.fa.fa-cc-paypal {
+.fa .fa-brandcolors.fa-cc-paypal {
   color: #253b80;
 }
-.fa.fa-cc-stripe {
+.fa .fa-brandcolors.fa-cc-stripe {
   color: #00afe1;
 }
-.fa.fa-cc-visa {
+.fa .fa-brandcolors.fa-cc-visa {
   color: #0157a2;
 }
-.fa.fa-chrome {
+.fa .fa-brandcolors.fa-chrome {
   color: #4587F3;
 }
-.fa.fa-codepen {
+.fa .fa-brandcolors.fa-codepen {
   color: #000;
 }
-.fa.fa-connectdevelop {
+.fa .fa-brandcolors.fa-connectdevelop {
   color: #391448;
 }
-.fa.fa-contao {
+.fa .fa-brandcolors.fa-contao {
   color: #eb8623;
 }
-.fa.fa-creative-commons {
+.fa .fa-brandcolors.fa-creative-commons {
   color: #231f20;
 }
-.fa.fa-css3 {
+.fa .fa-brandcolors.fa-css3 {
   color: #1680C0;
 }
-.fa.fa-dashcube {
+.fa .fa-brandcolors.fa-dashcube {
   color: #7f7f7f;
 }
-.fa.fa-delicious {
+.fa .fa-brandcolors.fa-delicious {
   color: #3399ff;
 }
-.fa.fa-deviantart {
+.fa .fa-brandcolors.fa-deviantart {
   color: #4e6252;
 }
-.fa.fa-digg {
+.fa .fa-brandcolors.fa-digg {
   color: #000;
 }
-.fa.fa-dribbble {
+.fa .fa-brandcolors.fa-dribbble {
   color: #444444;
 }
-.fa.fa-dropbox {
+.fa .fa-brandcolors.fa-dropbox {
   color: #007ee5;
 }
-.fa.fa-drupal {
+.fa .fa-brandcolors.fa-drupal {
   color: #0077c0;
 }
-.fa.fa-empire {
+.fa .fa-brandcolors.fa-empire {
   color: #000;
 }
-.fa.fa-expeditedssl {
+.fa .fa-brandcolors.fa-expeditedssl {
   color: #343433;
 }
-.fa.fa-facebook {
+.fa .fa-brandcolors.fa-facebook {
   color: #3b5998;
 }
-.fa.fa-facebook-official {
+.fa .fa-brandcolors.fa-facebook-official {
   color: #3b5998;
 }
-.fa.fa-facebook-square {
+.fa .fa-brandcolors.fa-facebook-square {
   color: #3b5998;
 }
-.fa.fa-firefox {
+.fa .fa-brandcolors.fa-firefox {
   color: #e66000;
 }
-.fa.fa-flickr {
+.fa .fa-brandcolors.fa-flickr {
   color: #ff0084;
 }
-.fa.fa-fonticons {
+.fa .fa-brandcolors.fa-fonticons {
   color: #1C1E29;
 }
-.fa.fa-forumbee {
+.fa .fa-brandcolors.fa-forumbee {
   color: #83ad13;
 }
-.fa.fa-foursquare {
+.fa .fa-brandcolors.fa-foursquare {
   color: #0072b1;
 }
-.fa.fa-ge {
+.fa .fa-brandcolors.fa-ge {
   color: #000;
 }
-.fa.fa-get-pocket {
+.fa .fa-brandcolors.fa-get-pocket {
   color: #d3505a;
 }
-.fa.fa-gg {
+.fa .fa-brandcolors.fa-gg {
   color: #000;
 }
-.fa.fa-gg-circle {
+.fa .fa-brandcolors.fa-gg-circle {
   color: #000;
 }
-.fa.fa-git {
+.fa .fa-brandcolors.fa-git {
   color: #333;
 }
-.fa.fa-git-square {
+.fa .fa-brandcolors.fa-git-square {
   color: #333;
 }
-.fa.fa-github {
+.fa .fa-brandcolors.fa-github {
   color: #333;
 }
-.fa.fa-github-alt {
+.fa .fa-brandcolors.fa-github-alt {
   color: #333;
 }
-.fa.fa-github-square {
+.fa .fa-brandcolors.fa-github-square {
   color: #333;
 }
-.fa.fa-gittip {
+.fa .fa-brandcolors.fa-gittip {
   color: #663300;
 }
-.fa.fa-google {
+.fa .fa-brandcolors.fa-google {
   color: #4285f4;
 }
-.fa.fa-google-plus {
+.fa .fa-brandcolors.fa-google-plus {
   color: #dd4b39;
 }
-.fa.fa-google-plus-square {
+.fa .fa-brandcolors.fa-google-plus-square {
   color: #dd4b39;
 }
-.fa.fa-google-wallet {
+.fa .fa-brandcolors.fa-google-wallet {
   color: #4285f4;
 }
-.fa.fa-hacker-news {
+.fa .fa-brandcolors.fa-hacker-news {
   color: #ff6600;
 }
-.fa.fa-heart-o {
+.fa .fa-brandcolors.fa-heart-o {
   color: #ff0000;
 }
-.fa.fa-heart {
+.fa .fa-brandcolors.fa-heart {
   color: #ff0000;
 }
-.fa.fa-houzz {
+.fa .fa-brandcolors.fa-houzz {
   color: #7ac142;
 }
-.fa.fa-html5 {
+.fa .fa-brandcolors.fa-html5 {
   color: #e34f26;
 }
-.fa.fa-instagram {
+.fa .fa-brandcolors.fa-instagram {
   color: #3f729b;
 }
-.fa.fa-internet-explorer {
+.fa .fa-brandcolors.fa-internet-explorer {
   color: #1EBBEE;
 }
-.fa.fa-ioxhost {
+.fa .fa-brandcolors.fa-ioxhost {
   color: #faa729;
 }
-.fa.fa-joomla {
+.fa .fa-brandcolors.fa-joomla {
   color: #142849;
 }
-.fa.fa-jsfiddle {
+.fa .fa-brandcolors.fa-jsfiddle {
   color: #4679BD;
 }
-.fa.fa-lastfm {
+.fa .fa-brandcolors.fa-lastfm {
   color: #c3000d;
 }
-.fa.fa-lastfm-square {
+.fa .fa-brandcolors.fa-lastfm-square {
   color: #c3000d;
 }
-.fa.fa-leanpub {
+.fa .fa-brandcolors.fa-leanpub {
   color: #0c0c0c;
 }
-.fa.fa-linkedin {
+.fa .fa-brandcolors.fa-linkedin {
   color: #0976b4;
 }
-.fa.fa-linkedin-square {
+.fa .fa-brandcolors.fa-linkedin-square {
   color: #0976b4;
 }
-.fa.fa-linux {
+.fa .fa-brandcolors.fa-linux {
   color: #333333;
 }
-.fa.fa-maxcdn {
+.fa .fa-brandcolors.fa-maxcdn {
   color: #FF6600;
 }
-.fa.fa-meanpath {
+.fa .fa-brandcolors.fa-meanpath {
   color: #538ed7;
 }
-.fa.fa-medium {
+.fa .fa-brandcolors.fa-medium {
   color: #000;
 }
-.fa.fa-odnoklassniki {
+.fa .fa-brandcolors.fa-odnoklassniki {
   color: #ed812b;
 }
-.fa.fa-odnoklassniki-square {
+.fa .fa-brandcolors.fa-odnoklassniki-square {
   color: #ed812b;
 }
-.fa.fa-opencart {
+.fa .fa-brandcolors.fa-opencart {
   color: #2AC2EF;
 }
-.fa.fa-openid {
+.fa .fa-brandcolors.fa-openid {
   color: #F78C40;
 }
-.fa.fa-opera {
+.fa .fa-brandcolors.fa-opera {
   color: #cc0f16;
 }
-.fa.fa-optin-monster {
+.fa .fa-brandcolors.fa-optin-monster {
   color: #83c11f;
 }
-.fa.fa-pagelines {
+.fa .fa-brandcolors.fa-pagelines {
   color: #000;
 }
-.fa.fa-paypal {
+.fa .fa-brandcolors.fa-paypal {
   color: #253b80;
 }
-.fa.fa-pied-piper {
+.fa .fa-brandcolors.fa-pied-piper {
   color: #2f9f46;
 }
-.fa.fa-pied-piper-alt {
+.fa .fa-brandcolors.fa-pied-piper-alt {
   color: #2f9f46;
 }
-.fa.fa-pied-piper-square {
+.fa .fa-brandcolors.fa-pied-piper-square {
   color: #2f9f46;
 }
-.fa.fa-pinterest {
+.fa .fa-brandcolors.fa-pinterest {
   color: #cc2127;
 }
-.fa.fa-pinterest-p {
+.fa .fa-brandcolors.fa-pinterest-p {
   color: #cc2127;
 }
-.fa.fa-pinterest-square {
+.fa .fa-brandcolors.fa-pinterest-square {
   color: #cc2127;
 }
-.fa.fa-qq {
+.fa .fa-brandcolors.fa-qq {
   color: #000;
 }
-.fa.fa-ra {
+.fa .fa-brandcolors.fa-ra {
   color: #000;
 }
-.fa.fa-rebel {
+.fa .fa-brandcolors.fa-rebel {
   color: #000;
 }
-.fa.fa-reddit {
+.fa .fa-brandcolors.fa-reddit {
   color: #ff4500;
 }
-.fa.fa-reddit-square {
+.fa .fa-brandcolors.fa-reddit-square {
   color: #ff4500;
 }
-.fa.fa-renren {
+.fa .fa-brandcolors.fa-renren {
   color: #005EAC;
 }
-.fa.fa-safari {
+.fa .fa-brandcolors.fa-safari {
   color: #1B88CA;
 }
-.fa.fa-sellsy {
+.fa .fa-brandcolors.fa-sellsy {
   color: #1f78b9;
 }
-.fa.fa-share-alt {
+.fa .fa-brandcolors.fa-share-alt {
   color: #01bf01;
 }
-.fa.fa-share-alt-square {
+.fa .fa-brandcolors.fa-share-alt-square {
   color: #01bf01;
 }
-.fa.fa-shirtsinbulk {
+.fa .fa-brandcolors.fa-shirtsinbulk {
   color: #dd3a26;
 }
-.fa.fa-simplybuilt {
+.fa .fa-brandcolors.fa-simplybuilt {
   color: #000;
 }
-.fa.fa-skyatlas {
+.fa .fa-brandcolors.fa-skyatlas {
   color: #00adbb;
 }
-.fa.fa-skype {
+.fa .fa-brandcolors.fa-skype {
   color: #00aff0;
 }
-.fa.fa-slack {
+.fa .fa-brandcolors.fa-slack {
   color: #0f7965;
 }
-.fa.fa-slideshare {
+.fa .fa-brandcolors.fa-slideshare {
   color: #e98325;
 }
-.fa.fa-soundcloud {
+.fa .fa-brandcolors.fa-soundcloud {
   color: #f80;
 }
-.fa.fa-spotify {
+.fa .fa-brandcolors.fa-spotify {
   color: #7ab800;
 }
-.fa.fa-stack-exchange {
+.fa .fa-brandcolors.fa-stack-exchange {
   color: #000;
 }
-.fa.fa-stack-overflow {
+.fa .fa-brandcolors.fa-stack-overflow {
   color: #fe7a15;
 }
-.fa.fa-steam {
+.fa .fa-brandcolors.fa-steam {
   color: #0B0B0B;
 }
-.fa.fa-steam-square {
+.fa .fa-brandcolors.fa-steam-square {
   color: #0B0B0B;
 }
-.fa.fa-stumbleupon {
+.fa .fa-brandcolors.fa-stumbleupon {
   color: #eb4924;
 }
-.fa.fa-stumbleupon-circle {
+.fa .fa-brandcolors.fa-stumbleupon-circle {
   color: #eb4924;
 }
-.fa.fa-tencent-weibo {
+.fa .fa-brandcolors.fa-tencent-weibo {
   color: #74AF2C;
 }
-.fa.fa-trello {
+.fa .fa-brandcolors.fa-trello {
   color: #256a92;
 }
-.fa.fa-tripadvisor {
+.fa .fa-brandcolors.fa-tripadvisor {
   color: #589442;
 }
-.fa.fa-tumblr {
+.fa .fa-brandcolors.fa-tumblr {
   color: #35465c;
 }
-.fa.fa-tumblr-square {
+.fa .fa-brandcolors.fa-tumblr-square {
   color: #35465c;
 }
-.fa.fa-twitch {
+.fa .fa-brandcolors.fa-twitch {
   color: #6441a5;
 }
-.fa.fa-twitter {
+.fa .fa-brandcolors.fa-twitter {
   color: #55acee;
 }
-.fa.fa-twitter-square {
+.fa .fa-brandcolors.fa-twitter-square {
   color: #55acee;
 }
-.fa.fa-viacoin {
+.fa .fa-brandcolors.fa-viacoin {
   color: #333;
 }
-.fa.fa-vimeo {
+.fa .fa-brandcolors.fa-vimeo {
   color: #1ab7ea;
 }
-.fa.fa-vimeo-square {
+.fa .fa-brandcolors.fa-vimeo-square {
   color: #1ab7ea;
 }
-.fa.fa-vine {
+.fa .fa-brandcolors.fa-vine {
   color: #00b488;
 }
-.fa.fa-vk {
+.fa .fa-brandcolors.fa-vk {
   color: #45668e;
 }
-.fa.fa-wechat {
+.fa .fa-brandcolors.fa-wechat {
   color: #93d034;
 }
-.fa.fa-weibo {
+.fa .fa-brandcolors.fa-weibo {
   color: #E71D34;
 }
-.fa.fa-weixin {
+.fa .fa-brandcolors.fa-weixin {
   color: #93d034;
 }
-.fa.fa-wikipedia-w {
+.fa .fa-brandcolors.fa-wikipedia-w {
   color: #000;
 }
-.fa.fa-windows {
+.fa .fa-brandcolors.fa-windows {
   color: #00bcf2;
 }
-.fa.fa-wordpress {
+.fa .fa-brandcolors.fa-wordpress {
   color: #21759b;
 }
-.fa.fa-xing {
+.fa .fa-brandcolors.fa-xing {
   color: #026466;
 }
-.fa.fa-xing-square {
+.fa .fa-brandcolors.fa-xing-square {
   color: #026466;
 }
-.fa.fa-y-combinator {
+.fa .fa-brandcolors.fa-y-combinator {
   color: #F0652F;
 }
-.fa.fa-yc {
+.fa .fa-brandcolors.fa-yc {
   color: #F0652F;
 }
-.fa.fa-yahoo {
+.fa .fa-brandcolors.fa-yahoo {
   color: #400191;
 }
-.fa.fa-yelp {
+.fa .fa-brandcolors.fa-yelp {
   color: #af0606;
 }
-.fa.fa-youtube {
+.fa .fa-brandcolors.fa-youtube {
   color: #e52d27;
 }
-.fa.fa-youtube-play {
+.fa .fa-brandcolors.fa-youtube-play {
   color: #e52d27;
 }
-.fa.fa-youtube-square {
+.fa .fa-brandcolors.fa-youtube-square {
   color: #e52d27;
 }
