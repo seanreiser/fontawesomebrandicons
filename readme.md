@@ -12,7 +12,9 @@ Will work with Fontawesome version 4.x (currently including icons up to 4.5)
 
 2) add the fa-brandicon class to your markup eg:
 ```HTML  
-<i class="fa fa-brandicon fa-twitter"></i> will giving you the twitter icon in brilliant twitter blue. 
+<i class="fa fa-brandicon fa-twitter"></i>
+```
+will giving you the twitter icon in brilliant twitter blue. 
 
 ##Contributers
 
